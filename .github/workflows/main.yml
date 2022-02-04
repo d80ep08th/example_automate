@@ -1,4 +1,4 @@
-name: Releases & Changelog
+name: Releases&Changelog
 
 on:
   push:
@@ -25,7 +25,6 @@ jobs:
         with:
           github-token: ${{ secrets.github_token }}
         
-
       - name: Create Release
         uses: actions/create-release@v1
         if: ${{ steps.changelog.outputs.skipped == 'false' }}
