@@ -1,3 +1,23 @@
+# [1.0.0](https://github.com/d80ep08th/example_automate/compare/v0.1.1...v1.0.0) (2022-02-04)
+
+
+### Bug Fixes
+
+* **python:** jupyter notebook for python ([1071842](https://github.com/d80ep08th/example_automate/commit/10718423de8b012727f1407a07442e575879750b))
+
+
+### Features
+
+* added a virus ([9b18a58](https://github.com/d80ep08th/example_automate/commit/9b18a58cec37b16785f85cdcde544e15f299e95e))
+* added bugs ([42bb4f9](https://github.com/d80ep08th/example_automate/commit/42bb4f97d4f8e47766586268f320da1e4a00ab06))
+
+
+### BREAKING CHANGES
+
+* partake folder is released
+
+
+
 ## [0.1.1](https://github.com/d80ep08th/example_automate/compare/v0.1.0...v0.1.1) (2022-02-04)
 
 
